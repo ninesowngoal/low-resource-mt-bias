@@ -48,7 +48,7 @@ Example placeholder metrics (from test runs):
 - TER: 81.6
 
 ## Citation
-If you use this reporsitory, please cit:
-```rust
+If you use this reporsitory, please cite:
+```bash
 Chishimba Chipeta, (2025). Bias in AI Translation Models for Low-Resource Languages. MSc Dissertation, Birmingham City University.
 ```
